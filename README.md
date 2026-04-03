@@ -40,3 +40,8 @@ The project generates spectrogram plots that help identify:
 🔊 Background noise and distortions <br>
 📉 Sudden changes or anomalies <br>
 ⏳ Time-based frequency transitions
+
+### 📊 Result
+
+Successfully extracted FFT and MFCC features from audio signals and generated clear spectrogram visualizations.
+The results highlight key patterns like frequency variations, harmonics, and noise, enabling effective audio analysis for ML applications.
